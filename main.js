@@ -59,5 +59,6 @@ const deleteAnimation = () => {
 }
 
 handleCurrentYear();
+deleteAnimations();
 navBtn.addEventListener('click', handleNav);
 window.addEventListener('scroll', handleObserver)
