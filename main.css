@@ -263,8 +263,6 @@ body {
   background-attachment: fixed;
   background-attachment: scroll;
 }
-
-
 .header__heading {
   font-family: "Dancing Script", cursive;
   font-size: 4.8rem;
@@ -788,7 +786,7 @@ body {
     right: 50px;
   }
   .header {
-    background-image: linear-gradient(45deg, rgba(20, 105, 241, 0.75), rgba(42, 10, 184, 0.75)), url("../img/header-big.jpg");
+    background-image: linear-gradient(45deg, rgba(20, 105, 241, 0.75), rgba(42, 10, 184, 0.75)), url("https://pixabay.com/get/gb574a87736bcb727ca5698b58fb46d6a0696c2963dea861168fc6e1007fff99797a42b7c9d203207163372d3456143db987894f5df3e11f513ac1cdf6f471a0a0e681cf7cca8535a3635d6996dac388b_1920.jpg");
   }
   .header__heading {
     font-size: 10rem;
