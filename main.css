@@ -257,7 +257,7 @@ body {
   height: 75vh;
   text-align: center;
   color: #fff;
-  background-image: linear-gradient(45deg, rgba(20, 105, 241, 0.75), rgba(42, 10, 184, 0.75)), url("../img/header-mini.jpg");
+  background-image: linear-gradient(45deg, rgba(20, 105, 241, 0.75), rgba(42, 10, 184, 0.75)), url("https://cdn.pixabay.com/photo/2018/02/22/08/05/palma-3172367_960_720.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
