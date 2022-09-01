@@ -52,13 +52,8 @@ const handleCurrentYear = () => {
 }
 
 
-const deleteAnimation = () => {
-    allNavItems.forEach(item => {
-        item.classList.remove('nav-items-animation')
-    })
-}
+
 
 handleCurrentYear();
-deleteAnimations();
 navBtn.addEventListener('click', handleNav);
 window.addEventListener('scroll', handleObserver)
