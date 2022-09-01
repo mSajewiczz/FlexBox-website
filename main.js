@@ -51,6 +51,13 @@ const handleCurrentYear = () => {
     footerYear.innerText = year;
 }
 
+
+const deleteAnimation = () => {
+    allNavItems.forEach(item => {
+        item.classList.remove('nav-items-animation')
+    })
+}
+
 handleCurrentYear();
 navBtn.addEventListener('click', handleNav);
 window.addEventListener('scroll', handleObserver)
